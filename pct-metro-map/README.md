@@ -4,3 +4,5 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 The OLT PCT Metro Map. Licensed under CC BY-SA 4.0.
+
+The most current version of the map is always available as pct-metro-map-vCurrent.png.
